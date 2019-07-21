@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>39.jpg</filename>
+	<path>/home/borjaad/images/img/39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>226</ymin>
+			<xmax>471</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

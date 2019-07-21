@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>185.png</filename>
+	<path>/home/borjaad/images/img/185.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>946</width>
+		<height>1254</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>2</ymin>
+			<xmax>773</xmax>
+			<ymax>1254</ymax>
+		</bndbox>
+	</object>
+</annotation>
