@@ -18,3 +18,7 @@ Los archivos necesarios listados a continuación se encuentran en este repositor
 * one_label.txt
 * imágenes de /home/borjaad/images/img
 * xmls de /home/borjaad/images/lab
+
+En este momento da el siguiete error relativo a cudnn:
+
+2019-07-15 19:29:20.741248: E tensorflow/stream_executor/cuda/cuda_dnn.cc:363] Loaded runtime CuDNN library: 7.0.4 but source was compiled with: 7.1.4.  CuDNN library major and minor version needs to match or have higher minor version in case of CuDNN 7.0 or later version. If using a binary install, upgrade your CuDNN library.  If building from sources, make sure the library loaded at runtime is compatible with the version specified during compile configuration.
